@@ -1,0 +1,330 @@
+2025-11-12 15:50:35,175 - INFO - non-anonymous user, folder emil
+2025-11-12 15:50:35,175 - INFO - non-anonymous user, folder bill
+2025-11-12 15:50:35,180 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 15:50:35,180 - INFO - concurrency model: async
+2025-11-12 15:50:35,180 - INFO - masquerade (NAT) address: None
+2025-11-12 15:50:35,180 - INFO - passive ports: None
+2025-11-12 15:50:35,180 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=28583 <<<
+2025-11-12 15:50:54,589 - INFO - 127.0.0.1:57503-[] FTP session opened (connect)
+2025-11-12 15:51:01,635 - INFO - 127.0.0.1:57503-[emil] USER 'emil' logged in.
+2025-11-12 15:51:09,093 - INFO - 127.0.0.1:57503-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib 250
+2025-11-12 15:51:16,284 - INFO - 127.0.0.1:57503-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/user 250
+2025-11-12 15:51:28,602 - INFO - 127.0.0.1:57503-[emil] FTP session closed (disconnect).
+2025-11-12 19:49:33,205 - INFO - non-anonymous user, folder emil
+2025-11-12 19:49:33,206 - INFO - non-anonymous user, folder bill
+2025-11-12 19:49:33,209 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 19:49:33,209 - INFO - concurrency model: async
+2025-11-12 19:49:33,209 - INFO - masquerade (NAT) address: None
+2025-11-12 19:49:33,210 - INFO - passive ports: None
+2025-11-12 19:49:33,210 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=30754 <<<
+2025-11-12 19:49:44,943 - INFO - 127.0.0.1:58329-[] FTP session opened (connect)
+2025-11-12 19:49:47,945 - INFO - 127.0.0.1:58329-[] USER 'user' failed login.
+2025-11-12 19:49:47,946 - INFO - 127.0.0.1:58329-[] FTP session closed (disconnect).
+2025-11-12 19:52:02,585 - INFO - 127.0.0.1:58333-[] FTP session opened (connect)
+2025-11-12 19:52:02,586 - INFO - 127.0.0.1:58333-[emil] USER 'emil' logged in.
+2025-11-12 19:52:26,920 - INFO - 127.0.0.1:58333-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/user 250
+2025-11-12 19:52:56,342 - INFO - 127.0.0.1:58333-[emil] FTP session closed (disconnect).
+2025-11-12 20:06:47,010 - INFO - received interrupt signal
+2025-11-12 20:06:47,014 - INFO - >>> shutting down FTP server, pid=30754, 1 open socket(s) <<<
+2025-11-12 20:08:35,545 - INFO - non-anonymous user, folder emil
+2025-11-12 20:08:35,547 - INFO - non-anonymous user, folder bill
+2025-11-12 20:08:35,595 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 20:08:35,596 - INFO - concurrency model: async
+2025-11-12 20:08:35,596 - INFO - masquerade (NAT) address: None
+2025-11-12 20:08:35,596 - INFO - passive ports: None
+2025-11-12 20:08:35,596 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=31306 <<<
+2025-11-12 20:08:52,305 - INFO - 127.0.0.1:58380-[] FTP session opened (connect)
+2025-11-12 20:08:55,307 - INFO - 127.0.0.1:58380-[] USER 'user' failed login.
+2025-11-12 20:08:55,308 - INFO - 127.0.0.1:58380-[] FTP session closed (disconnect).
+2025-11-12 20:10:11,726 - INFO - 127.0.0.1:58384-[] FTP session opened (connect)
+2025-11-12 20:10:11,728 - INFO - 127.0.0.1:58384-[emil] USER 'emil' logged in.
+2025-11-12 20:10:33,499 - INFO - 127.0.0.1:58384-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/public 250
+2025-11-12 20:10:49,366 - INFO - 127.0.0.1:58384-[emil] RETR /Users/emil/Desktop/ftp_with_pytftpdlib/public/1.jpg completed=1 bytes=4755 seconds=0.001
+2025-11-12 20:11:07,084 - INFO - 127.0.0.1:58384-[emil] FTP session closed (disconnect).
+2025-11-12 21:36:32,676 - INFO - non-anonymous user, folder emil
+2025-11-12 21:36:32,676 - INFO - non-anonymous user, folder bill
+2025-11-12 21:36:40,656 - INFO - received interrupt signal
+2025-11-12 21:36:40,659 - INFO - >>> shutting down FTP server, pid=31306, 1 open socket(s) <<<
+2025-11-12 21:36:40,856 - INFO - non-anonymous user, folder emil
+2025-11-12 21:36:40,857 - INFO - non-anonymous user, folder bill
+2025-11-12 21:36:40,859 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 21:36:40,859 - INFO - concurrency model: async
+2025-11-12 21:36:40,859 - INFO - masquerade (NAT) address: None
+2025-11-12 21:36:40,859 - INFO - passive ports: None
+2025-11-12 21:36:40,859 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32033 <<<
+2025-11-12 21:36:44,853 - INFO - received interrupt signal
+2025-11-12 21:36:44,854 - INFO - >>> shutting down FTP server, pid=32033, 1 open socket(s) <<<
+2025-11-12 21:36:53,341 - INFO - non-anonymous user, folder emil
+2025-11-12 21:36:53,341 - INFO - non-anonymous user, folder bill
+2025-11-12 21:36:53,343 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 21:36:53,343 - INFO - concurrency model: async
+2025-11-12 21:36:53,343 - INFO - masquerade (NAT) address: None
+2025-11-12 21:36:53,343 - INFO - passive ports: None
+2025-11-12 21:36:53,343 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32045 <<<
+2025-11-12 21:37:21,180 - INFO - 127.0.0.1:58650-[] FTP session opened (connect)
+2025-11-12 21:37:21,181 - INFO - 127.0.0.1:58650-[emil] USER 'emil' logged in.
+2025-11-12 21:41:12,572 - INFO - 127.0.0.1:58650-[emil] FTP session closed (disconnect).
+2025-11-12 21:41:29,793 - INFO - 127.0.0.1:58662-[] FTP session opened (connect)
+2025-11-12 21:41:29,794 - INFO - 127.0.0.1:58662-[emil] USER 'emil' logged in.
+2025-11-12 21:41:45,036 - INFO - 127.0.0.1:58662-[emil] RETR /Users/emil/Desktop/ftp_with_pytftpdlib/IMG_3831.jpg completed=1 bytes=594240 seconds=0.004
+2025-11-12 21:42:49,283 - INFO - 127.0.0.1:58662-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/public 250
+2025-11-12 21:43:22,247 - INFO - 127.0.0.1:58662-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/user 250
+2025-11-12 21:48:22,254 - INFO - 127.0.0.1:58662-[emil] Control connection timed out.
+2025-11-12 21:48:22,258 - INFO - 127.0.0.1:58662-[emil] FTP session closed (disconnect).
+2025-11-12 21:56:47,677 - INFO - 127.0.0.1:58695-[] FTP session opened (connect)
+2025-11-12 21:56:47,678 - INFO - 127.0.0.1:58695-[emil] USER 'emil' logged in.
+2025-11-12 21:57:19,185 - INFO - 127.0.0.1:58695-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/public 250
+2025-11-12 21:57:44,734 - INFO - 127.0.0.1:58695-[emil] STOR /Users/emil/Desktop/ftp_with_pytftpdlib/public/2.jpg completed=1 bytes=47866 seconds=0.005
+2025-11-12 21:58:47,992 - INFO - 127.0.0.1:58695-[emil] FTP session closed (disconnect).
+2025-11-12 22:15:02,646 - INFO - non-anonymous user, folder emil
+2025-11-12 22:15:02,646 - INFO - non-anonymous user, folder bill
+2025-11-12 22:15:02,650 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:15:02,650 - INFO - concurrency model: async
+2025-11-12 22:15:02,650 - INFO - masquerade (NAT) address: None
+2025-11-12 22:15:02,650 - INFO - passive ports: None
+2025-11-12 22:15:02,650 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32508 <<<
+2025-11-12 22:15:05,806 - INFO - received interrupt signal
+2025-11-12 22:15:05,806 - INFO - >>> shutting down FTP server, pid=32508, 1 open socket(s) <<<
+2025-11-12 22:15:06,010 - INFO - non-anonymous user, folder emil
+2025-11-12 22:15:06,010 - INFO - non-anonymous user, folder bill
+2025-11-12 22:15:06,012 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:15:06,012 - INFO - concurrency model: async
+2025-11-12 22:15:06,012 - INFO - masquerade (NAT) address: None
+2025-11-12 22:15:06,012 - INFO - passive ports: None
+2025-11-12 22:15:06,012 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32606 <<<
+2025-11-12 22:16:42,736 - INFO - received interrupt signal
+2025-11-12 22:16:42,738 - INFO - >>> shutting down FTP server, pid=32606, 1 open socket(s) <<<
+2025-11-12 22:17:04,642 - INFO - non-anonymous user, folder emil
+2025-11-12 22:17:04,643 - INFO - non-anonymous user, folder bill
+2025-11-12 22:17:04,646 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:17:04,647 - INFO - concurrency model: async
+2025-11-12 22:17:04,647 - INFO - masquerade (NAT) address: None
+2025-11-12 22:17:04,647 - INFO - passive ports: None
+2025-11-12 22:17:04,647 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32712 <<<
+2025-11-12 22:17:10,806 - INFO - received interrupt signal
+2025-11-12 22:17:10,806 - INFO - >>> shutting down FTP server, pid=32712, 1 open socket(s) <<<
+2025-11-12 22:17:36,296 - INFO - non-anonymous user, folder emil
+2025-11-12 22:17:36,297 - INFO - non-anonymous user, folder bill
+2025-11-12 22:17:36,300 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:17:36,300 - INFO - concurrency model: async
+2025-11-12 22:17:36,300 - INFO - masquerade (NAT) address: None
+2025-11-12 22:17:36,301 - INFO - passive ports: None
+2025-11-12 22:17:36,301 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32816 <<<
+2025-11-12 22:17:44,765 - INFO - received interrupt signal
+2025-11-12 22:17:44,765 - INFO - >>> shutting down FTP server, pid=32816, 1 open socket(s) <<<
+2025-11-12 22:18:05,576 - INFO - non-anonymous user, folder emil
+2025-11-12 22:18:05,577 - INFO - non-anonymous user, folder bill
+2025-11-12 22:18:05,581 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:18:05,581 - INFO - concurrency model: async
+2025-11-12 22:18:05,581 - INFO - masquerade (NAT) address: None
+2025-11-12 22:18:05,581 - INFO - passive ports: None
+2025-11-12 22:18:05,581 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32839 <<<
+2025-11-12 22:18:11,977 - INFO - received interrupt signal
+2025-11-12 22:18:11,977 - INFO - >>> shutting down FTP server, pid=32839, 1 open socket(s) <<<
+2025-11-12 22:22:19,662 - INFO - non-anonymous user, folder emil
+2025-11-12 22:22:19,663 - INFO - non-anonymous user, folder bill
+2025-11-12 22:22:19,667 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:22:19,667 - INFO - concurrency model: async
+2025-11-12 22:22:19,667 - INFO - masquerade (NAT) address: None
+2025-11-12 22:22:19,667 - INFO - passive ports: None
+2025-11-12 22:22:19,667 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=32935 <<<
+2025-11-12 22:24:27,015 - INFO - received interrupt signal
+2025-11-12 22:24:27,016 - INFO - >>> shutting down FTP server, pid=32935, 1 open socket(s) <<<
+2025-11-12 22:24:27,239 - INFO - non-anonymous user, folder emil
+2025-11-12 22:24:27,239 - INFO - non-anonymous user, folder bill
+2025-11-12 22:24:33,129 - INFO - non-anonymous user, folder emil
+2025-11-12 22:24:33,129 - INFO - non-anonymous user, folder bill
+2025-11-12 22:24:33,133 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:24:33,133 - INFO - concurrency model: async
+2025-11-12 22:24:33,133 - INFO - masquerade (NAT) address: None
+2025-11-12 22:24:33,133 - INFO - passive ports: None
+2025-11-12 22:24:33,133 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=33166 <<<
+2025-11-12 22:25:20,979 - INFO - received interrupt signal
+2025-11-12 22:25:20,981 - INFO - >>> shutting down FTP server, pid=33166, 1 open socket(s) <<<
+2025-11-12 22:45:49,386 - INFO - non-anonymous user, folder emil
+2025-11-12 22:45:49,387 - INFO - non-anonymous user, folder bill
+2025-11-12 22:45:49,391 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 22:45:49,391 - INFO - concurrency model: async
+2025-11-12 22:45:49,391 - INFO - masquerade (NAT) address: None
+2025-11-12 22:45:49,391 - INFO - passive ports: None
+2025-11-12 22:45:49,391 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=33491 <<<
+2025-11-12 22:46:02,863 - INFO - 127.0.0.1:58873-[] FTP session opened (connect)
+2025-11-12 22:46:07,770 - INFO - 127.0.0.1:58873-[emil] USER 'emil' logged in.
+2025-11-12 22:46:28,216 - INFO - 127.0.0.1:58873-[emil] FTP session closed (disconnect).
+2025-11-12 23:12:44,220 - INFO - 127.0.0.1:58907-[] FTP session opened (connect)
+2025-11-12 23:12:53,956 - INFO - 127.0.0.1:58907-[] USER 'anonymous' failed login.
+2025-11-12 23:13:17,443 - INFO - 127.0.0.1:58907-[] FTP session closed (disconnect).
+2025-11-12 23:13:24,741 - INFO - 127.0.0.1:58908-[] FTP session opened (connect)
+2025-11-12 23:14:22,140 - INFO - 127.0.0.1:58908-[] USER 'anonymous' failed login.
+2025-11-12 23:17:18,712 - INFO - 127.0.0.1:58908-[] FTP session closed (disconnect).
+2025-11-12 23:17:23,828 - INFO - 127.0.0.1:58914-[] FTP session opened (connect)
+2025-11-12 23:17:36,197 - INFO - received interrupt signal
+2025-11-12 23:17:36,197 - INFO - >>> shutting down FTP server, pid=33491, 2 open socket(s) <<<
+2025-11-12 23:17:36,198 - INFO - 127.0.0.1:58914-[] FTP session closed (disconnect).
+2025-11-12 23:19:07,657 - INFO - non-anonymous user, folder emil
+2025-11-12 23:19:07,658 - INFO - non-anonymous user, folder bill
+2025-11-12 23:19:07,658 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-12 23:19:07,662 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-12 23:19:07,662 - INFO - concurrency model: async
+2025-11-12 23:19:07,662 - INFO - masquerade (NAT) address: None
+2025-11-12 23:19:07,662 - INFO - passive ports: None
+2025-11-12 23:19:07,662 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=33716 <<<
+2025-11-12 23:19:38,598 - INFO - 127.0.0.1:58921-[] FTP session opened (connect)
+2025-11-12 23:19:54,544 - INFO - 127.0.0.1:58921-[anonymous] USER 'anonymous' logged in.
+2025-11-12 23:24:54,547 - INFO - 127.0.0.1:58921-[anonymous] Control connection timed out.
+2025-11-12 23:24:54,550 - INFO - 127.0.0.1:58921-[anonymous] FTP session closed (disconnect).
+2025-11-12 23:34:39,585 - INFO - received interrupt signal
+2025-11-12 23:34:39,587 - INFO - >>> shutting down FTP server, pid=33716, 1 open socket(s) <<<
+2025-11-13 22:46:59,115 - INFO - non-anonymous user, folder emil
+2025-11-13 22:46:59,115 - INFO - non-anonymous user, folder bill
+2025-11-13 22:46:59,115 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-13 22:46:59,164 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-13 22:46:59,165 - INFO - concurrency model: async
+2025-11-13 22:46:59,165 - INFO - masquerade (NAT) address: None
+2025-11-13 22:46:59,165 - INFO - passive ports: None
+2025-11-13 22:46:59,165 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=35743 <<<
+2025-11-13 22:47:16,214 - INFO - 127.0.0.1:59684-[] FTP session opened (connect)
+2025-11-13 22:47:33,329 - INFO - 127.0.0.1:59684-[] USER 'ls' failed login.
+2025-11-13 22:47:47,640 - INFO - 127.0.0.1:59684-[] FTP session closed (disconnect).
+2025-11-13 22:47:55,685 - INFO - 127.0.0.1:59685-[] FTP session opened (connect)
+2025-11-13 22:48:00,635 - INFO - 127.0.0.1:59685-[emil] USER 'emil' logged in.
+2025-11-13 22:48:09,191 - INFO - 127.0.0.1:59685-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/user 250
+2025-11-13 22:48:20,685 - INFO - 127.0.0.1:59685-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib 250
+2025-11-13 22:48:37,173 - INFO - 127.0.0.1:59685-[emil] RETR /Users/emil/Desktop/ftp_with_pytftpdlib/3.jpg completed=1 bytes=44156 seconds=0.003
+2025-11-13 22:49:50,547 - INFO - 127.0.0.1:59692-[] FTP session opened (connect)
+2025-11-13 22:49:59,294 - INFO - 127.0.0.1:59692-[anonymous] USER 'anonymous' logged in.
+2025-11-13 22:50:12,575 - INFO - 127.0.0.1:59692-[anonymous] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/public/public 550 'No such file or directory.'
+2025-11-13 22:50:32,547 - INFO - 127.0.0.1:59692-[anonymous] RETR /Users/emil/Desktop/ftp_with_pytftpdlib/public/4.jpeg completed=1 bytes=10019 seconds=0.002
+2025-11-13 22:50:50,524 - INFO - 127.0.0.1:59692-[anonymous] FTP session closed (disconnect).
+2025-11-13 22:51:49,493 - INFO - received interrupt signal
+2025-11-13 22:51:49,493 - INFO - >>> shutting down FTP server, pid=35743, 2 open socket(s) <<<
+2025-11-13 22:51:49,494 - INFO - 127.0.0.1:59685-[emil] FTP session closed (disconnect).
+2025-11-13 22:52:03,811 - INFO - non-anonymous user, folder emil
+2025-11-13 22:52:03,811 - INFO - non-anonymous user, folder bill
+2025-11-13 22:52:03,811 - INFO - non-anonymous user, folder putin
+2025-11-13 22:52:03,811 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-13 22:52:03,814 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-13 22:52:03,814 - INFO - concurrency model: async
+2025-11-13 22:52:03,814 - INFO - masquerade (NAT) address: None
+2025-11-13 22:52:03,814 - INFO - passive ports: None
+2025-11-13 22:52:03,814 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=35860 <<<
+2025-11-13 22:52:47,600 - INFO - 127.0.0.1:59735-[] FTP session opened (connect)
+2025-11-13 22:52:47,605 - INFO - 127.0.0.1:59735-[putin] USER 'putin' logged in.
+2025-11-13 22:53:10,024 - INFO - 127.0.0.1:59735-[putin] FTP session closed (disconnect).
+2025-11-13 22:53:17,935 - INFO - 127.0.0.1:59738-[] FTP session opened (connect)
+2025-11-13 22:53:27,095 - INFO - 127.0.0.1:59738-[emil] USER 'emil' logged in.
+2025-11-13 22:53:36,837 - INFO - 127.0.0.1:59738-[emil] MKD /Users/emil/Desktop/ftp_with_pytftpdlib/donbass 257
+2025-11-13 22:53:45,461 - INFO - 127.0.0.1:59738-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/donbass 250
+2025-11-13 22:55:59,292 - INFO - 127.0.0.1:59738-[emil] FTP session closed (disconnect).
+2025-11-13 22:58:17,144 - INFO - non-anonymous user, folder emil
+2025-11-13 22:58:17,144 - INFO - non-anonymous user, folder bill
+2025-11-13 22:58:17,144 - INFO - non-anonymous user, folder dostoevski
+2025-11-13 22:58:17,145 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-13 22:58:17,148 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-13 22:58:17,149 - INFO - concurrency model: async
+2025-11-13 22:58:17,149 - INFO - masquerade (NAT) address: None
+2025-11-13 22:58:17,149 - INFO - passive ports: None
+2025-11-13 22:58:17,149 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=36128 <<<
+2025-11-13 22:58:29,995 - INFO - 127.0.0.1:59800-[] FTP session opened (connect)
+2025-11-13 22:58:37,143 - INFO - 127.0.0.1:59800-[emil] USER 'emil' logged in.
+2025-11-13 23:02:02,036 - INFO - 127.0.0.1:59800-[emil] STOR /Users/emil/Desktop/ftp_with_pytftpdlib/Donetsian_Region_in_Ukraine.svg.png completed=1 bytes=23229 seconds=0.007
+2025-11-13 23:07:02,050 - INFO - 127.0.0.1:59800-[emil] Control connection timed out.
+2025-11-13 23:07:02,054 - INFO - 127.0.0.1:59800-[emil] FTP session closed (disconnect).
+2025-11-13 23:11:23,724 - INFO - received interrupt signal
+2025-11-13 23:11:23,726 - INFO - >>> shutting down FTP server, pid=36128, 1 open socket(s) <<<
+2025-11-14 15:07:21,901 - INFO - non-anonymous user, folder emil
+2025-11-14 15:07:21,901 - INFO - non-anonymous user, folder bill
+2025-11-14 15:07:21,901 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 15:07:21,901 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 15:07:21,951 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 15:07:21,951 - INFO - concurrency model: async
+2025-11-14 15:07:21,951 - INFO - masquerade (NAT) address: None
+2025-11-14 15:07:21,951 - INFO - passive ports: None
+2025-11-14 15:07:21,951 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=37635 <<<
+2025-11-14 15:07:46,184 - INFO - 127.0.0.1:59970-[] FTP session opened (connect)
+2025-11-14 15:08:15,317 - INFO - 127.0.0.1:59971-[] FTP session opened (connect)
+2025-11-14 15:08:15,317 - INFO - 127.0.0.1:59971-[emil] USER 'emil' logged in.
+2025-11-14 15:08:30,933 - INFO - 127.0.0.1:59970-[emil] USER 'emil' logged in.
+2025-11-14 15:10:09,738 - INFO - 127.0.0.1:59970-[emil] STOR /Users/emil/Desktop/ftp_with_pytftpdlib/Pre-Arrival_Presentation_SoSe25.pdf completed=1 bytes=1204826 seconds=0.066
+2025-11-14 15:12:28,537 - INFO - 127.0.0.1:59971-[emil] FTP session closed (disconnect).
+2025-11-14 15:15:09,739 - INFO - 127.0.0.1:59970-[emil] Control connection timed out.
+2025-11-14 15:15:09,742 - INFO - 127.0.0.1:59970-[emil] FTP session closed (disconnect).
+2025-11-14 15:21:58,978 - INFO - non-anonymous user, folder emil
+2025-11-14 15:21:58,979 - INFO - non-anonymous user, folder bill
+2025-11-14 15:21:58,979 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 15:21:58,979 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 15:21:58,983 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 15:21:58,983 - INFO - concurrency model: async
+2025-11-14 15:21:58,983 - INFO - masquerade (NAT) address: None
+2025-11-14 15:21:58,983 - INFO - passive ports: None
+2025-11-14 15:21:58,983 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=37748 <<<
+2025-11-14 15:22:14,153 - INFO - 127.0.0.1:59992-[] FTP session opened (connect)
+2025-11-14 15:22:42,983 - INFO - 127.0.0.1:59992-[] USER 'emil' failed login.
+2025-11-14 15:22:56,330 - INFO - 127.0.0.1:59992-[] FTP session closed (disconnect).
+2025-11-14 15:23:06,450 - INFO - 127.0.0.1:59993-[] FTP session opened (connect)
+2025-11-14 15:23:10,999 - INFO - 127.0.0.1:59993-[emil] USER 'emil' logged in.
+2025-11-14 15:24:02,681 - INFO - 127.0.0.1:59994-[] FTP session opened (connect)
+2025-11-14 15:24:02,682 - INFO - 127.0.0.1:59994-[anonymous] USER 'anonymous' logged in.
+2025-11-14 15:27:14,648 - INFO - 127.0.0.1:59993-[emil] STOR /Users/emil/Desktop/ftp_with_pytftpdlib/2.jpg completed=1 bytes=48029 seconds=0.007
+2025-11-14 15:28:21,115 - INFO - 127.0.0.1:59993-[emil] FTP session closed (disconnect).
+2025-11-14 15:30:20,327 - INFO - received interrupt signal
+2025-11-14 15:30:20,328 - INFO - >>> shutting down FTP server, pid=37748, 2 open socket(s) <<<
+2025-11-14 15:30:20,328 - INFO - 127.0.0.1:59994-[anonymous] FTP session closed (disconnect).
+2025-11-14 15:33:17,319 - INFO - non-anonymous user, folder emil
+2025-11-14 15:33:17,319 - INFO - non-anonymous user, folder bill
+2025-11-14 15:33:17,319 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 15:33:17,320 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 15:33:17,323 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 15:33:17,323 - INFO - concurrency model: async
+2025-11-14 15:33:17,323 - INFO - masquerade (NAT) address: None
+2025-11-14 15:33:17,323 - INFO - passive ports: None
+2025-11-14 15:33:17,323 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=37929 <<<
+2025-11-14 15:33:26,909 - INFO - received interrupt signal
+2025-11-14 15:33:26,910 - INFO - >>> shutting down FTP server, pid=37929, 1 open socket(s) <<<
+2025-11-14 15:37:15,825 - INFO - non-anonymous user, folder emil
+2025-11-14 15:37:15,825 - INFO - non-anonymous user, folder bill
+2025-11-14 15:37:15,825 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 15:37:15,825 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 15:37:15,829 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 15:37:15,829 - INFO - concurrency model: async
+2025-11-14 15:37:15,829 - INFO - masquerade (NAT) address: None
+2025-11-14 15:37:15,829 - INFO - passive ports: None
+2025-11-14 15:37:15,829 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=38044 <<<
+2025-11-14 15:40:17,509 - INFO - 172.20.10.3:49671-[] FTP session opened (connect)
+2025-11-14 15:40:17,528 - INFO - 172.20.10.3:49671-[emil] USER 'emil' logged in.
+2025-11-14 15:40:56,812 - INFO - 172.20.10.3:49671-[emil] CWD /Users/emil/Desktop/ftp_with_pytftpdlib/abdul 250
+2025-11-14 15:42:10,173 - INFO - 172.20.10.3:49671-[emil] STOR /Users/emil/Desktop/ftp_with_pytftpdlib/abdul/4.jpeg completed=1 bytes=9973 seconds=0.015
+2025-11-14 15:43:58,174 - INFO - 172.20.10.3:49671-[emil] FTP session closed (disconnect).
+2025-11-14 15:52:11,980 - INFO - non-anonymous user, folder emil
+2025-11-14 15:52:11,980 - INFO - non-anonymous user, folder bill
+2025-11-14 15:52:11,980 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 15:52:11,980 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 15:52:11,984 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 15:52:11,984 - INFO - concurrency model: async
+2025-11-14 15:52:11,984 - INFO - masquerade (NAT) address: None
+2025-11-14 15:52:11,984 - INFO - passive ports: None
+2025-11-14 15:52:11,984 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=38202 <<<
+2025-11-14 15:53:00,830 - INFO - 127.0.0.1:60060-[] FTP session opened (connect)
+2025-11-14 15:53:05,269 - INFO - 127.0.0.1:60060-[emil] USER 'emil' logged in.
+2025-11-14 15:53:11,354 - INFO - 127.0.0.1:60060-[emil] FTP session closed (disconnect).
+2025-11-14 15:54:12,976 - INFO - non-anonymous user, folder emil
+2025-11-14 15:54:12,976 - INFO - non-anonymous user, folder bill
+2025-11-14 15:54:12,976 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 15:54:12,976 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 15:54:12,980 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 15:54:12,980 - INFO - concurrency model: async
+2025-11-14 15:54:12,980 - INFO - masquerade (NAT) address: None
+2025-11-14 15:54:12,980 - INFO - passive ports: None
+2025-11-14 15:54:12,980 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=38277 <<<
+2025-11-14 15:55:14,019 - INFO - 172.20.10.3:60847-[] FTP session opened (connect)
+2025-11-14 15:55:14,043 - INFO - 172.20.10.3:60847-[emil] USER 'emil' logged in.
+2025-11-14 15:56:22,111 - INFO - 172.20.10.3:60847-[emil] FTP session closed (disconnect).
+2025-11-14 21:52:58,610 - INFO - non-anonymous user, folder emil
+2025-11-14 21:52:58,610 - INFO - non-anonymous user, folder bill
+2025-11-14 21:52:58,610 - INFO - non-anonymous user, folder dostoevski
+2025-11-14 21:52:58,610 - INFO - anonymous user, folder /Users/emil/Desktop/ftp_with_pytftpdlib/public
+2025-11-14 21:52:58,614 - INFO - FTP server started. IP: 0.0.0.0, Port: 21
+2025-11-14 21:52:58,614 - INFO - concurrency model: async
+2025-11-14 21:52:58,614 - INFO - masquerade (NAT) address: None
+2025-11-14 21:52:58,615 - INFO - passive ports: None
+2025-11-14 21:52:58,615 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=38733 <<<
